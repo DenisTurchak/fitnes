@@ -1,0 +1,17 @@
+/*
+Theme Name: fitnes
+Theme URI: @_denis_turchak
+Author: Denis Turchak
+Author URI: @_denis_turchak
+Description:
+Version: 1.0
+*/
+
+body{
+    background: #888888;
+}
+
+.bl-header{
+    min-height: 163px;
+    background-color: #000000;
+}
